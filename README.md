@@ -5,7 +5,7 @@ fallback.js
 ## About
 * _JavaScript library for dynamically loading javascript files from a CDN with a fallback option._
 * _Load scripts on demand for faster page load time!_
-* _Loads all scripts in parralel!_
+* _Loads all scripts in parallel!_
 * _It's extremely easy to implement!_
 * __This is the only external script that needs to be loaded in your HTML!__
 
